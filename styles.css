@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+    text-align:center;
+    color:white;
+    font-family: 'Caveat', cursive;
+    font-size:30px;
+
+
+}
+p{
+    font-size:30px;
+    text-align:center;
+}
+h3{
+    font-size:30px;
+    color:rgb(17, 213, 248);
+}
+a{
+    color:rgb(17, 213, 248);
+}
+table{
+    font-size:30px;
+
+    border:20px solid white;
+    border-spacing:25px;
+    text-align:center;
+}
+h1{
+    font-size:30px;
+
+    text-align:left;
+}
